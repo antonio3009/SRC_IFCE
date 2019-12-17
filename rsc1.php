@@ -730,16 +730,16 @@ Banca de avaliação de TCC de Cursos Técnicos e de Graduação.</td>
     <th>I- Experiência na área de formação e/ou atuação do docente, anterior ao ingresso na Instituição, contemplando o impacto de suas ações nas demais diretrizes dispostas para todos os níveis do RSC</th>
     <th>1</th>
     <th>10</th>
-    <th><input type="number" min="0" max="20"></th>
-    <th><input type="number" min="0" max="20"></th>
+    <th><input type="number" min="0" max="10"></th>
+    <th><input type="number" min="0" max="0"></th>
     <th></th>
   </tr>
     <tr>  
     <th>II - Cursos de capacitação e/ou graduação na área de interesse institucional </th>
     <th>1</th>
     <th>10</th>
-    <th><input type="number" min="0" max="20"></th>
-    <th><input type="number" min="0" max="20"></th>
+    <th><input type="number" min="0" max="10"></th>
+    <th><input type="number" min="0" max="10"></th>
     <th></th>
   </tr>
   <tr>  
@@ -754,16 +754,16 @@ Banca de avaliação de TCC de Cursos Técnicos e de Graduação.</td>
     <th>IV - Atuação em comissões e representações institucionais, de classes e profissionais, contemplando o impacto de suas ações nas demais diretrizes dispostas para todos os níveis do RSC</th>
     <th>1</th>
     <th>10</th>
-    <th><input type="number" min="0" max="20"></th>
-    <th><input type="number" min="0" max="20"></th>
+    <th><input type="number" min="0" max="10"></th>
+    <th><input type="number" min="0" max="10"></th>
     <th></th>
   </tr>
   <tr>  
     <th>V - Produção de material didático e/ou implantação de ambientes de aprendizagem, nas atividades de ensino, pesquisa, extensão e/ou inovação </th>
     <th>1</th>
     <th>10</th>
-    <th><input type="number" min="0" max="20"></th>
-    <th><input type="number" min="0" max="20"></th>
+    <th><input type="number" min="0" max="10"></th>
+    <th><input type="number" min="0" max="10"></th>
     <th></th>
   </tr>
   <tr>  
@@ -778,24 +778,24 @@ Banca de avaliação de TCC de Cursos Técnicos e de Graduação.</td>
     <th>VII - Participação em processos seletivos, em bancas de avaliação acadêmica e/ou de concursos </th>
     <th>1</th>
     <th>10</th>
-    <th><input type="number" min="0" max="20"></th>
-    <th><input type="number" min="0" max="20"></th>
+    <th><input type="number" min="0" max="10"></th>
+    <th><input type="number" min="0" max="10"></th>
     <th></th>
   </tr>
   <tr>  
     <th>VIII - Outras graduações, na área de interesse, além daquela que o habilita e define o nível de RSC pretendido, no âmbito do plano de qualificação institucional. </th>
     <th>1</th>
     <th>10</th>
-    <th><input type="number" min="0" max="20"></th>
-    <th><input type="number" min="0" max="20"></th>
+    <th><input type="number" min="0" max="10"></th>
+    <th><input type="number" min="0" max="10"></th>
     <th></th>
   </tr>
   <tr>  
     <th colspan="" bgcolor="yellow">Subtotal</th>
     <th>10</th>
     <th>100</th>
-    <th><input type="number" min="0" max="20"></th>
-    <th><input type="number" min="0" max="20"></th> 
+    <th><input type="number" min="0" max="100"></th>
+    <th><input type="number" min="0" max="100"></th> 
     <th colspan="2" bgcolor="yellow"></th>
   </tr>
   </table>
